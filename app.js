@@ -2,4 +2,4 @@
 //Escribe un console.log o un alert como el del ejem
 
 console.log("Ten un lindo dia!");
-alert(" que sea muy especial!"); 
+alert('y que sea muy especial!');
